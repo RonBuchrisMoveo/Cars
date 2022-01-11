@@ -1,0 +1,116 @@
+[
+    {
+        "manufacturer":"Kia",
+        "model":"Sportage",
+        "imgURL":"https://www.kia.com/us/en/vehicles/sportage/2022/_jcr_content/root/responsivegrid/mediatext.coreimg.100.2500.jpeg/1619041985742.jpeg",
+        "des":"Go into stealth mode with style and substance"
+},
+    {
+        "manufacturer":"Kia",
+        "model":"Soul",
+        "imgURL":"https://www.kia.com/us/en/vehicles/soul/2022/_jcr_content/root/responsivegrid/mediatext_88751540_c.coreimg.100.2500.jpeg/1635975515957.jpeg",
+        "des":"The Soul S trim offers the perfect balance of comfort"
+},
+    {
+        "manufacturer":"Kia",
+        "model":"Seltos",
+        "imgURL":"https://www.kia.com/us/en/vehicles/seltos/2022/_jcr_content/root/responsivegrid/mediatext.coreimg.100.2500.jpeg/1629486394961.jpeg",
+        "des":"the Seltos Nightfall Edition trim equips impressive available features"
+},
+    {
+        "manufacturer":"Kia",
+        "model":"Niro",
+        "imgURL":"https://www.kia.com/us/en/vehicles/niro/2022/_jcr_content/root/responsivegrid/mediatext.coreimg.100.2500.jpeg/1631120863647.jpeg",
+        "des":"The 2022 Niro gives modern hybrid technology a sleek new look"
+},
+    {
+        "manufacturer":"Kia",
+        "model":"Sorento",
+        "imgURL":"https://www.kia.com/us/en/vehicles/sorento/2022/_jcr_content/root/responsivegrid/mediatext.coreimg.100.2500.jpeg/1629738351037.jpeg",
+        "des":"The available X-Line can take you on the rugged path less traveled."
+},
+    {
+        "manufacturer":"Kia",
+        "model":"Carnival",
+        "imgURL":"https://www.kia.com/us/en/vehicles/carnival-mpv/2022/_jcr_content/root/responsivegrid/mediatext.coreimg.100.2500.jpeg/1631648552239.jpeg",
+        "des":"The Carnival MPV EX Trim combines next-level tech enhancements"
+},
+    {
+        "manufacturer":"Kia",
+        "model":"Telluride",
+        "imgURL":"https://www.kia.com/us/content/dam/kia/us/en/vehicles/telluride/2022/mep/content-asset-list/kia_telluride_2022_mep_asset-list_all-wheel-drive.jpg/_jcr_content/renditions/desktop.jpg",
+        "des":"Be the master of the road with the power to help tackle all your adventures."
+},
+    {
+        "manufacturer":"Kia",
+        "model":"Rio",
+        "imgURL":"https://www.kia.com/us/en/vehicles/rio/2022/_jcr_content/root/responsivegrid/mediatext_copy.coreimg.100.2500.jpeg/1633449906232.jpeg",
+        "des":"Take a seat in the Rio stylish and spacious cabin, with comfort that’s personalized to you."
+},
+    {
+        "manufacturer":"Kia",
+        "model":"Forte",
+        "imgURL":"https://www.kia.com/us/en/vehicles/forte/2022/_jcr_content/root/responsivegrid/mediatext.coreimg.100.2500.jpeg/1634840481875.jpeg",
+        "des":"The Forte GT-Line comes with newly designed front bumper, grille"
+},
+    {
+        "manufacturer":"Kia",
+        "model":"K5",
+        "imgURL":"https://www.kia.com/us/en/vehicles/k5/2022/_jcr_content/root/responsivegrid/mediatext.coreimg.100.2500.jpeg/1626470992603.jpeg",
+        "des":"The K5 advanced AWD helps provide surefooted traction for greater peace of mind under a variety of weather conditions."
+},
+    {
+        "manufacturer":"Kia",
+        "model":"Stinger",
+        "imgURL":"https://www.kia.com/us/en/vehicles/stinger/2022/_jcr_content/root/responsivegrid/mediatext.coreimg.100.2500.jpeg/1615576776829.jpeg",
+        "des":"Propelled by a new 300 horsepower, 2.5L turbocharged engine"
+},
+    {
+        "manufacturer":"Hyundai",
+        "model":"Azera",
+        "imgURL":"https://www.hyundai.com/content/dam/hyundai/ww/en/images/find-a-car/pip/cars/azera-ig-fl/azera-ig-fl-highlights-eyes-of-envy-pc.jpg",
+        "des":"The new AZERA is a magnet for envious eyes who recognize that this is an extraordinary sedan reserved for the few."
+},
+    {
+        "manufacturer":"Hyundai",
+        "model":"Sonata",
+        "imgURL":"https://www.hyundai.com/content/dam/hyundai/ww/en/images/find-a-car/pip/cars/sonata-dn8/sonata-dn8-highlights-technology-loves-you-pc.jpg",
+        "des":"The all-new SONATA is winning hearts and minds with its advanced technologies that actually care for your well-being."
+},
+    {
+        "manufacturer":"Hyundai",
+        "model":"Veloster",
+        "imgURL":"https://www.hyundai.com/content/dam/hyundai/ww/en/images/find-a-car/pip/cars/veloster-jsn/veloster-jsn-fl-highlightsn-track-sense-shift-original.jpg",
+        "des":"Now available with the N 8-Speed Wet Dual-Clutch Transmission, you can discover another side of the high-performance Corner Rascal. "
+},
+    {
+        "manufacturer":"Hyundai",
+        "model":"Accent",
+        "imgURL":"https://www.hyundai.com/content/dam/hyundai/ww/en/images/find-a-car/pip/cars/accent-hc/accent-hc-highlights-left-side-front-view-silver-pc.jpg",
+        "des":"The all-new Accent gives you everything you have ever wanted in a small family car and much more."
+},
+    {
+        "manufacturer":"Hyundai",
+        "model":"i20",
+        "imgURL":"https://www.hyundai.com/content/dam/hyundai/ww/en/images/find-a-car/pip/cars/i20-bc3/i20-bc3-highlights-the-safest-in-its-segment-original.jpg",
+        "des":"Dynamic and distinctive, the all-new i20 is setting new standards in the small car segment. "
+},
+    {
+        "manufacturer":"Hyundai",
+        "model":"i10",
+        "imgURL":"https://www.hyundai.com/content/dam/hyundai/ww/en/images/find-a-car/pip/cars/i10-ac3/i10-ac3-highlights-perfect-for-small-spaces-and-big-moments-pc.jpg",
+        "des":"In life, its the small things that make a big difference. "
+},
+    {
+        "manufacturer":"Hyundai",
+        "model":"Venue",
+        "imgURL":"https://www.hyundai.com/content/dam/hyundai/ww/en/images/find-a-car/pip/suv/venue-qx/venue-qx-highlights-color-the-city-pc.jpg",
+        "des":"Amidst peaceful moments with friends during the day"
+},
+    {
+        "manufacturer":"Hyundai",
+        "model":"Nexo",
+        "imgURL":"https://www.hyundai.com/content/dam/hyundai/ww/en/images/find-a-car/pip/eco/nexo/nexo-fe-highlights-because-of-femita-pc.jpg",
+        "des":"We all have a vision for a better tomorrow. Ours is to make the world a better place because of you"
+}
+]

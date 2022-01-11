@@ -1,0 +1,64 @@
+.main-app {
+    max-width:380px;
+    margin:0 auto;
+    @include for-normal-layout {
+      @media (min-width: $narrow-breakpoint) {
+        max-width:960px;
+        display: flex;
+        justify-content: center;
+      }
+    }
+    .main-header{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 60px;
+  }
+  }
+
+  .main-cars-container{
+    .search-add-container{
+      display: flex;
+    justify-content: center;
+    align-items: center;
+      .search{
+        margin-right: 34px;
+        .form{
+          display: flex;
+          justify-content: center;
+          button{
+            width: 60px;
+            
+          }
+        }
+      }
+      .add-car{
+        padding: 2px 8px;
+    border: 1px solid #333;
+    border-radius: 3px;
+      }
+  }
+  }
+
+  .login-first{
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    .title{
+      font-size: 2rem;
+    }
+    .login{
+      a{
+      padding: 2px 8px;
+      border: 1px solid #292F4C;
+      border-radius: 3px;
+        background-color: #292F4C;
+        color:$clr7;
+        &:hover{
+          color:#292F4C;
+          background-color: $clr7;
+        }
+      }
+    }
+  }
