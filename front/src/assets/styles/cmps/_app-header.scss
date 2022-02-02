@@ -1,0 +1,13 @@
+.app-header {
+    background-color: #292F4C;
+    padding:15px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    .main-app{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        .logo{
+            color: $clr7;
+        }
+    }
+}

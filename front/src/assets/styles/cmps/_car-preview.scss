@@ -1,0 +1,125 @@
+.cars-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.car-container{
+    display: flex;
+    width:152px;   
+    flex-direction: column;
+    border: 1px solid #333;
+    border-radius: 3px;
+    margin-bottom: 25px;
+    @include for-normal-layout {
+        @media (min-width: $narrow-breakpoint) {
+            gap: 40px;
+            flex-direction: row;
+            width:auto;
+        }
+      }
+    .car-img{
+        >img{
+            width: 150px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 3px 0px 0px 3px;
+    @include for-normal-layout {
+        @media (min-width: $narrow-breakpoint) {
+                    width: 250px;
+                    height: 200px;
+                }
+              }
+        }
+    }
+    .car-details{
+        display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+    @include for-normal-layout {
+        @media (min-width: $narrow-breakpoint) {
+            width: 400px;
+        }
+      }
+    .manufacturer{
+        font-size: 1.2rem;
+        @include for-normal-layout {
+            @media (min-width: $narrow-breakpoint) {
+                font-size: 2rem;
+            }
+          }
+    }
+    .model{
+        font-size: 1rem;
+        @include for-normal-layout {
+            @media (min-width: $narrow-breakpoint) {
+                font-size: 1.2rem;
+                
+            }
+          }
+    }
+    .des{
+        
+        font-size: 0.8rem;
+        @include for-normal-layout {
+            @media (min-width: $narrow-breakpoint) {
+                font-size: 1rem;
+            }
+          }
+    }
+
+    }
+    .car-actions{
+        display: flex;
+        align-items: center;
+        @include for-normal-layout {
+            @media (min-width: $narrow-breakpoint) {
+                justify-content: space-between;
+                flex-direction: column;
+              
+            }
+          }
+          >a{
+              width: 50%;
+              @include for-normal-layout {
+                  @media (min-width: $narrow-breakpoint) {
+                    width: 50px;
+                }
+              }
+
+              .car-update{
+                  display: flex;
+                  justify-content: center;
+                  color:$clr7;
+                  background-color: $primary-color;
+                  border-radius: 2px;
+                  &:hover{
+                      outline:$primary-color 1px solid;
+                      background-color: $clr7;
+                      color: $primary-color;
+                    }
+                }
+        }
+        .car-delete{
+            display: flex;
+            justify-content: center;
+            border-radius: 2px;
+            color:$clr7;
+            width: 50%;
+            background-color: $negative-color;
+            
+            &:hover{
+                outline:$negative-color 1px solid;
+                background-color: $clr7;
+                color: $negative-color;
+            }
+            @include for-normal-layout {
+                @media (min-width: $narrow-breakpoint) {
+                    width: 50px;
+                  
+                }
+              }
+        }
+    }
+}

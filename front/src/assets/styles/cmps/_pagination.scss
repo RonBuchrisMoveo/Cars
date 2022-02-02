@@ -1,0 +1,21 @@
+.pagination{
+    display: flex;
+    justify-content: center;
+}
+.pagination-container{
+    // display: inline-block;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    a,
+    .backward,
+    .forward{
+        color: $clr8;
+        float: left;
+        padding: 8px 16px;
+        text-decoration: none;
+        &:hover{
+            background-color: #ddd;
+        }
+    }
+}

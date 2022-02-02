@@ -1,0 +1,23 @@
+.user-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: 30px;
+    .user-img{
+        width: 130px;
+        >img{
+            border-radius: 50%;
+            border: 2px solid #333;
+            box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        }
+    }
+    .about{
+        >div{
+            margin-bottom: 10px;
+            >span{
+                font-family:roboto-bold;
+            }
+        }
+    }
+}
